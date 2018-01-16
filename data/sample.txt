@@ -1,0 +1,3 @@
+Run heavy tasks in the background as a child process, nodejs doesn’t want anything blocking it, it’s a single thread.
+Try and use micro-services if you’re building something really big.
+If you’re coming from a strongly-typed language, you’ll realise JavaScript's lack of static types. Use something like TypeScript, Flow e.t.c…
